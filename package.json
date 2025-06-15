@@ -1,0 +1,26 @@
+{
+  "name": "learn-graphql",
+  "version": "1.0.0",
+  "description": "Repository Of Me Learning Graphql",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fajarstyuu/learn-graphql.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fajarstyuu/learn-graphql/issues"
+  },
+  "homepage": "https://github.com/fajarstyuu/learn-graphql#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
